@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/login-signup-form/static/css/main.1cafa257.css",
+    "main.js": "/login-signup-form/static/js/main.3f9a89f6.js",
+    "static/js/787.bb37f283.chunk.js": "/login-signup-form/static/js/787.bb37f283.chunk.js",
+    "static/media/myspaceLogo.png": "/login-signup-form/static/media/myspaceLogo.cd51a1e8a1b79d1bc1f6.png",
+    "index.html": "/login-signup-form/index.html",
+    "main.1cafa257.css.map": "/login-signup-form/static/css/main.1cafa257.css.map",
+    "main.3f9a89f6.js.map": "/login-signup-form/static/js/main.3f9a89f6.js.map",
+    "787.bb37f283.chunk.js.map": "/login-signup-form/static/js/787.bb37f283.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cafa257.css",
+    "static/js/main.3f9a89f6.js"
+  ]
+}
